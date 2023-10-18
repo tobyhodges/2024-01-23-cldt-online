@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.
 curriculum: "Collaborative Lesson Development Training" # DON'T CHANGE THIS EITHER. (THANK YOU.)
-part: "FIXME"         # The part of the lesson development training curriculum being taught at this event: "1" or "2"
+part: "1"         # The part of the lesson development training curriculum being taught at this event: "1" or "2"
 venue: "online"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "FIXME"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
@@ -15,7 +15,7 @@ startdate: 2024-01-23      # machine-readable start date for the workshop in YYY
 enddate: 2024-01-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Aleksandra Nenadic", "Mateusz Kuzak", "Mike Trizna"] # boxed, comma-separated list of trainers' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+contact: ["m.kuzak@esciencecenter.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop CodiMD/Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
